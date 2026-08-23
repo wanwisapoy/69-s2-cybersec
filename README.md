@@ -1,6 +1,6 @@
 # Cyber Security
 
 ## My Information
-- Prawee Wongsa
-- 48XXXXXXXXXXX
-- I known about cyber security
+- Wanwisa Sakronrussamee
+- 0568604050xxx
+
