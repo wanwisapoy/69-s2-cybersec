@@ -66,11 +66,6 @@ services:
       - ADMIN_EMAIL=${ADMIN_EMAIL}
     volumes:
       - ./data-app:/srv/app
-    logging:
-      driver: json-file
-      options:
-        max-size: "10m"
-        max-file: "5"
 
 volumes:
   data-postgres:
